@@ -1,0 +1,10 @@
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\bin\Debug\GerenciCacheta.exe.config
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\bin\Debug\GerenciCacheta.exe
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\bin\Debug\GerenciCacheta.pdb
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.frmCadastro.resources
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.Properties.Resources.resources
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.exe
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.pdb
+C:\Users\lukas\source\repos\GerenciCacheta\GerenciCacheta\obj\Debug\GerenciCacheta.Form2.resources
